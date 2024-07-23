@@ -1,5 +1,5 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Naveen Kuratti</h1>
-<h3 align="center">â€¢ I'm interested in Full Stack Web Development</h3>
+<h1 align="center">Hi, I'm Naveen Kuratti</h1>
+<h3 align="center">I'm interested in Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkuratti&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkuratti" /> </p>
 
