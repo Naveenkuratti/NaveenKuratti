@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkuratti&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkuratti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkuratti" alt="naveenkuratti" /></a> </p>
-Iam currently learning **practising Data Structures and Algorithms using java**
+Iam currently learning :
+practising Data Structures and Algorithms using java.
 
- Ask me about **C/C++ and JAVA and python basics**
+ Ask me about:
+ **C/C++ and JAVA and python basics**
 
  How to reach me **naveenkuratti875@gmail.com**
 
