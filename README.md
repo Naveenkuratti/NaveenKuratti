@@ -1,25 +1,27 @@
-<h1 align="center">Hi, I'm Naveen Kuratti</h1> 
-<h3 align="center">I'm interested in Full Stack Web And Java Development</h3>
+<h1 align="center">Hi 👋, I'm Naveen Kuratti</h1>
+<h3 align="center">A passionate Full Stack Web and Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkuratti&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkuratti" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkuratti" alt="naveenkuratti" /></a> </p>
-I am currently learning:
-Practicing Data Structures and Algorithms using Java.
 
-Ask me about:
-**C/C++, JAVA, and Python basics**
+<h3 align="left">I am currently learning:</h3>
+<p align="left">Practicing Data Structures and Algorithms using Java.</p>
 
-How to reach me: **naveenkuratti875@gmail.com**
+<h3 align="left">Ask me about:</h3>
+<p align="left"><strong>C/C++, JAVA, and Python basics</strong></p>
 
-Portfolio website: **https://main--naveenprotfoli.netlify.app/**
+<h3 align="left">How to reach me:</h3>
+<p align="left"><strong>Email:</strong> <a href="mailto:naveenkuratti875@gmail.com">naveenkuratti875@gmail.com</a></p>
+
+<h3 align="left">Portfolio website:</h3>
+<p align="left"><a href="https://main--naveenprotfoli.netlify.app/" target="_blank">https://main--naveenprotfoli.netlify.app/</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naveenkuratti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenkuratti" height="30" width="40" /></a>
 <a href="https://instagram.com/na.veen9047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="na.veen9047" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/naveen kuratti india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveen kuratti india" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveen kuratti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen kuratti" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naveenkuratti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveenkuratti" height="30" width="40" /></a>
+<a href="https://leetcode.com/naveenkuratti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenkuratti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,13 +46,4 @@ Portfolio website: **https://main--naveenprotfoli.netlify.app/**
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkuratti&show_icons=true&locale=en&layout=compact" alt="naveenkuratti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkuratti&show_icons=true&locale=en" alt="naveenkuratti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nave
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </
