@@ -8,7 +8,7 @@
 <p align="left">Practicing Data Structures and Algorithms using Java.</p>
 
 <h3 align="left">Ask me about:</h3>
-<p align="left"><strong>C/C++, JAVA, and Python basics</strong></p>
+<p align="left"><strong>C/C++, JAVA, and Python basics and react js </strong></p>
 
 <h3 align="left">How to reach me:</h3>
 <p align="left"><strong>Email:</strong> <a href="mailto:naveenkuratti875@gmail.com">naveenkuratti875@gmail.com</a></p>
